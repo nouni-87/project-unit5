@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(231, 223, 223);
+    
+}
+.container {
+    background-color: white;
+    max-width: 65%;
+    margin: auto;
+    
+}
+.searchbox {
+    border: solid 2px rgb(231, 223, 223);
+    border-radius: 5px;
+    width: 50%;
+    padding: 15px  10px;
+    margin-bottom: 30px;
+    font-size: 1.1em;
+    color: rgb(136, 119, 119);
+    justify-items: center;
+ }
+
+ 
