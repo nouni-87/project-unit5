@@ -1,13 +1,17 @@
 *{
+   
     box-sizing: border-box;
 }
 
 
 
 body {
-    background-color: #fff);
+    background-color: #fff;
+    font-family: 'Playfair Display', serif;
     
 }
+
+
 .container {
     max-width: 100%;
     margin: auto;
@@ -21,6 +25,7 @@ body {
     grid-template-rows: minmax(200px, auto);
     grid-gap: 20px;
     justify-content: center;
+   
     margin: auto;
 }
 
